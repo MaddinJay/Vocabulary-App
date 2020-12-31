@@ -20,3 +20,4 @@ Features:
 - Bug Upload when first execution
 - Popup to confirm Add/Delete Databasedata: English text instead of german text
 - Counter left cards when cards are added to inbox incorrect? 
+- app/files folder create automatically 
