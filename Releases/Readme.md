@@ -10,6 +10,9 @@ Features:
 - Delete Database
 - Push Notification (App is running) if cards are available to learn
 
+Info:
+Git Large File Storage installed to upload files bigger than 25mb
+
 # Release 1.2 - beta (TBD)
 
 Features:
