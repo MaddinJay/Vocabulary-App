@@ -22,3 +22,4 @@ Features:
 - Counter left cards when cards are added to inbox incorrect? 
 - app/files folder create automatically 
 - Push Notification created in background 
+- change of german text in card: old card still exists 
