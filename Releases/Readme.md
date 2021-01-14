@@ -30,3 +30,4 @@ Features:
 - app/files folder create automatically 
 - Push Notification created in background 
 - change of german text in card: old card still exists 
+- Go to HTTP-Link-Page if set in card
