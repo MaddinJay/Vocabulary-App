@@ -13,7 +13,7 @@ Features:
 Info:
 Git Large File Storage installed to upload files bigger than 25mb
 
-# Release 1.2 - beta (14.01.2020)
+# Release 1.4 - beta (14.01.2020)
 
 Features:
  - Add new Topics with Image
