@@ -31,3 +31,5 @@ Features:
 - Push Notification created in background 
 - change of german text in card: old card still exists 
 - Go to HTTP-Link-Page if set in card
+- Shut down nach DB Upload
+- Format Check für Datum/Zeit bei Upload (sonst DB Abbruch
